@@ -6,5 +6,6 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		System.out.println("Hello Programmer");
 		System.out.println("Hello Reviewer");
+		System.out.println("1 commit in master - Rebase commit message 1");
 	}
 }
