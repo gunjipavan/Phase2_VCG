@@ -9,7 +9,7 @@ public class HelloWorld {
 		System.out.println("add 2 additional commits to test - Rebase Commit 1");
 		
 
-		System.out.println("Hello Reviewer");
+		System.out.println("add 2 additional commits to test - Rebase Commit 2");
 
 	}
 }
